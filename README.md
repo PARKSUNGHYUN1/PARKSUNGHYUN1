@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSungHyun&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"white="55%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParkSungHyun&theme=tokyonight&show_icons=true" white="45%"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParkSungHyun1&theme=tokyonight&show_icons=true" white="45%"  />
 </a>
 
 
