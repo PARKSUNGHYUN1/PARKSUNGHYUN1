@@ -1,27 +1,4 @@
-### Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdpark12)](https://solved.ac/asdpark12/)
-<!--
-**PARKSUNGHYUN1/PARKSUNGHYUN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-<p   align="center" >
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JongRak_Github" />
-   
-
-
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=shinJongRock&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ParkSungHyun&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdpark12)](https://solved.ac/asdpark12)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asdpark12)](https://solved.ac/asdpark12)
@@ -32,10 +9,10 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongRock&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"white="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSungHyun&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"white="55%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShinJongRock&theme=tokyonight&show_icons=true" white="45%"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParkSungHyun&theme=tokyonight&show_icons=true" white="45%"  />
 </a>
 
 
@@ -73,8 +50,8 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <a href="https://www.instagram.com/
          
-         r_0630"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/asdpark12"/></a>
-<a href="https://velog.io/@whdkfr0630">
+         r_0630"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/seonghyunn__"/></a>
+<a href="https://asdp-coding.tistory.com/">
    <img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@whdkfr0630"/></a>
 </p>
       <p    align="center">
