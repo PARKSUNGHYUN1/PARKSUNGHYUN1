@@ -9,9 +9,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asdpark12)](https://solved.ac/asdpark12)
 
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/PARKSUNGHYUN1/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/PARKSUNGHYUN1/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/PARKSUNGHYUN1/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/PARKSUNGHYUN1/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PARKSUNGHYUN1/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/PARKSUNGHYUN1/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/PARKSUNGHYUN1/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/PARKSUNGHYUN1/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PARKSUNGHYUN1/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/PARKSUNGHYUN1/github-profile-summary-cards)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSungHyun&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"white="55%" />
@@ -53,9 +53,9 @@
 </br>
 <p align="center">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<a href="https://www.instagram.com/seonghyunn__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/seonghyunn__"/></a>
+<a href="https://www.instagram.com/seonghyunn__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/seonghyunn__"></a>
 <a href="https://asdp-coding.tistory.com/">
-   <img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@whdkfr0630"/></a>
+   <img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://asdp-coding.tistory.com/"></a>
 </p>
       <p    align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>           
