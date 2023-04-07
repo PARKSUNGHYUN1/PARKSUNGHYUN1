@@ -56,9 +56,7 @@
 <a href="https://asdp-coding.tistory.com/">
    <img src="http://img.shields.io/badge/tistory--20c997?style=for-the-badge&link=https://asdp-coding.tistory.com/"></a>
 </p>
-      <p    align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>           
-   </p>
+      
 </p>
              
              
