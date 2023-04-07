@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=SUNGHYUN_Github" />
   
  <div>
-<img src="https://raw.githubusercontent.com/9con9/front_Duo/main/client/public/img/ResellViewer.png" bottom=100/>   
+<img src="https://raw.githubusercontent.com/9con9/front_Duo/main/client/public/img/ResellViewer.png" margin-bottom=100/>   
 <img src="https://raw.githubusercontent.com/HI-JOB-IS-NULL/Front_End/main/client/public/assets/logo.PNG" width=200/>   
   </div>
 
@@ -14,7 +14,8 @@
 
 [![](https://raw.githubusercontent.com/PARKSUNGHYUN1/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/PARKSUNGHYUN1/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/PARKSUNGHYUN1/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/PARKSUNGHYUN1/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PARKSUNGHYUN1/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/PARKSUNGHYUN1/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/PARKSUNGHYUN1/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/PARKSUNGHYUN1/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PARKSUNGHYUN1/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/PARKSUNGHYUN1/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/PARKSUNGHYUN1/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/PARKSUNGHYUN1/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/PARKSUNGHYUN1/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/PARKSUNGHYUN1/github-profile-summary-cards)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKSUNGHYUN1&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"white="55%" />
