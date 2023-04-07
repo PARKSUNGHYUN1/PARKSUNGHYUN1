@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=SUNGHYUN_Github" />
   
  <div>
-<img src="https://raw.githubusercontent.com/9con9/front_Duo/main/client/public/img/ResellViewer.png" style="margin-bottom:100"/>   
+<img src="https://raw.githubusercontent.com/9con9/front_Duo/main/client/public/img/ResellViewer.png" bottom=100/>   
 <img src="https://raw.githubusercontent.com/HI-JOB-IS-NULL/Front_End/main/client/public/assets/logo.PNG" width=200/>   
   </div>
 
