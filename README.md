@@ -4,7 +4,7 @@
   
  <div>
 <img src="https://raw.githubusercontent.com/9con9/front_Duo/main/client/public/img/ResellViewer.png"/>   
-<img src="https://raw.githubusercontent.com/HI-JOB-IS-NULL/Front_End/main/client/public/assets/logo.PNG" size:60%/>   
+<img src="https://raw.githubusercontent.com/HI-JOB-IS-NULL/Front_End/main/client/public/assets/logo.PNG" width:"60%"/>   
   </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ParkSungHyun&row=1)](https://github.com/ryo-ma/github-profile-trophy)
