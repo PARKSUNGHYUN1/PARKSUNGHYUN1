@@ -1,8 +1,11 @@
 <div align="center">
 <p   align="center" >
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=SUNGHYUN_Github" />
+  
+ <div>
 <img src="https://raw.githubusercontent.com/9con9/front_Duo/main/client/public/img/ResellViewer.png"/>   
 <img src="https://raw.githubusercontent.com/HI-JOB-IS-NULL/Front_End/main/client/public/assets/logo.PNG" size:60%/>   
+  </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ParkSungHyun&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdpark12)](https://solved.ac/asdpark12)
