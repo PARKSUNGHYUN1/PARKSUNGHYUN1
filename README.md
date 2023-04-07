@@ -1,7 +1,7 @@
 <div align="center">
 <p   align="center" >
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=SUNGHYUN_Github" />
-   
+<img src="https://raw.githubusercontent.com/9con9/front_Duo/main/client/public/img/ResellViewer.png"/>   
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ParkSungHyun&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
