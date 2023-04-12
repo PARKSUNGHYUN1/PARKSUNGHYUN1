@@ -4,7 +4,7 @@
   
  <div>
    <a href="https://resellviewer.surge.sh/">
-<img src="https://raw.githubusercontent.com/9con9/front_Duo/main/client/public/img/ResellViewer.png" margin-bottom=100/>   
+<img src="https://raw.githubusercontent.com/9con9/front_Duo/main/client/public/img/ResellViewer.png" bottom=100/>   
    </a>
    <a href="http://automeal.surge.sh/">
 <img src="https://raw.githubusercontent.com/HI-JOB-IS-NULL/Front_End/main/client/public/assets/logo.PNG" width=200/>   
