@@ -3,8 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=SUNGHYUN_Github" />
   
  <div>
+   <a href="https://resellviewer.surge.sh/">
 <img src="https://raw.githubusercontent.com/9con9/front_Duo/main/client/public/img/ResellViewer.png" margin-bottom=100/>   
+   </a>
+   <a href="http://automeal.surge.sh/">
 <img src="https://raw.githubusercontent.com/HI-JOB-IS-NULL/Front_End/main/client/public/assets/logo.PNG" width=200/>   
+     </a>
   </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ParkSungHyun&row=1)](https://github.com/ryo-ma/github-profile-trophy)
